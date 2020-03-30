@@ -75,6 +75,52 @@ print("오름차순 : {}".format(your_dict))
 '''
 
 #32) if-else
-print
+print("32) 78쪽, 예제를 테스트 해 보세요.")
+x = 5
+if x > 4 or x !=9:
+    print("Output : {}".format(x))
+else:
+    print("output : x is not greater than 4")
+
+#33) if-elif-else
+print("33) 78쪽, 예제를 테스트 해 보세요.")
+if x > 6:
+    print("Output : x is greater than six")
+elif x > 4 and x == 5:
+    print("Output : {}".format(x*x))
+else:
+    print("Output: x is not greater than 4")
 
 
+#34) for루프
+print("34) 예제의 리스트 y에서 대문자 M으로 시작하는 월(month)를 출력하시오.")
+y = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+for i in range(len(y)):
+    if y[i].startswith('M'):
+        print("{!s}".format(y[i]))
+
+#35) 간결한 for문
+print("35)")
+print("리스트 축약: 첫 번째 값( row[0] )이 3보다 큰 것만 리스트만 출력하시오.")
+my_data = [[1,2,3],[4,5,6],[7,8,9]]
+rows_to_keep= [row for row in my_data if row[0] > 3]
+print("{}".format(rows_to_keep))
+
+print("집학 축약: 예제의 집합 축약을 테스트 하시오.")
+my_data = [(1,2,3),(4,5,6),(7,8,9),(7,8,9)]
+set_of_tuples1 = {x for x in my_data}
+print("Output : (set comprehension) : {}".format(set_of_tuples1))
+set_of_tuples2 = set(my_data)
+print("Output : (set function) : {}".format(set_of_tuples2))
+print("딕셔너리 축약: my_dictionary에서 값이 8보다 큰 키-값의 쌍을 출력하시오.")
+my_dictionary = {'customer1':7, 'customer2':9, 'customer3':11}
+my_results = {key : value for key, value in my_dictionary.items() if value > 8}
+print("Output : {}".format(my_results))
+
+#36) while 문
+print("36) 예제를 테스트 하시오.")
+print("Output : ")
+x = 0
+while x < 11:
+    print("{!s}".format(x))
+    x += 1
