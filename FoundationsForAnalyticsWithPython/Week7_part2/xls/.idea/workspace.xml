@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6d2f9b6-1f44-4e6f-8548-a7d2b874c5a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Assignment/01Week/1week(1).hwp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment/01Week/1week(2).hwp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment/06/연습문제2장.hwp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment/Assignment06/Homework.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment/Assignment06/Homework01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment/Assignment06/supplier_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment/Assignment_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment/Assignment_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment/Assignment_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment/Assignment_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment/Assignment_04_m01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment/Assignment_04_m02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment/Assignment_04_m03.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1bOGr9TrnUe3kOhbdMMulsMJ06z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6d2f9b6-1f44-4e6f-8548-a7d2b874c5a6" name="Default Changelist" comment="" />
+      <created>1588495923054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588495923054</updated>
+      <workItem from="1588495926745" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="333" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1588495928183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="333" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1360.0.1360.728@0.0.1280.680" timestamp="1588495928183" />
+  </component>
+</project>
