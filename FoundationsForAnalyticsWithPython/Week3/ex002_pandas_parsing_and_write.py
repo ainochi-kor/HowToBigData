@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import sys
-import pandas as pd
+import pandas as pd #팬더스 라이브러리를 활용한다.
 
 input_file = sys.argv[1]
 output_file = sys.argv[2]
