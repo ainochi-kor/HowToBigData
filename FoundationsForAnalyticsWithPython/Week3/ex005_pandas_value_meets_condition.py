@@ -2,8 +2,8 @@
 import pandas as pd
 import sys
 
-input_file = sys.argv[1]
-output_file = sys.argv[2]
+input_file = 'csv/supplier_data2.csv'
+output_file = 'csv/ex005_pandas_output.csv'
 
 #data_frame에 input_file을 pd를 이용하여 read_csv한다.
 data_frame = pd.read_csv(input_file)
