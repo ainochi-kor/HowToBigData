@@ -7,6 +7,7 @@ from xlrd import open_workbook
 input_directory = "xls"
 
 workbook_counter = 0
+#입력 경로.
 for input_file in glob.glob(os.path.join(input_directory, '*.xls*')):
     workbook = open_workbook(input_file)
     print('WorkbookL {}'.format(os.path.basename(input_file)))

@@ -14,10 +14,11 @@ output_worksheet = output_workbook.add_sheet('all_data_all_workbooks')
 
 data = []
 first_worksheet = True
+#입력 주소에서 파일을 읽기
 for input_file in glob.glob(os.path.join(input_folder, '*.xls*')):
-    print(os.path.basename(input_file))
+    print(os.path.basename(input_file)) #무엇을 읽었는지 출력
     with open_workbook(input_file) as workbook:
-        for worksheet in workbook.sheets():
+        for worksheet in workbook.sheets(): #모든 워크시트
             if first_worksheet:
                 header_row = worksheet.row_values(0)
                 data.append(header_row)

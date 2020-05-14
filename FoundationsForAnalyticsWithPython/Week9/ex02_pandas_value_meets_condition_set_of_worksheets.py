@@ -5,8 +5,8 @@ import sys
 input_file = 'xls/sales_2013.xlsx'
 output_file = 'output/ex02_output.xls'
 
-my_sheets = [0, 1]
-threshold = 1900.0
+my_sheets = [0, 1] #sheet
+threshold = 1900.0 #기준 값.
 
 data_frame = pd.read_excel(input_file, sheet_name=my_sheets, index_col=None)
 

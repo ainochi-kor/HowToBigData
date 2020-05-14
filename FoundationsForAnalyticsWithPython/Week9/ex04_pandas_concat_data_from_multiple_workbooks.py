@@ -9,6 +9,7 @@ output_file = 'output/ex04_pandas_output.xls'
 
 all_workbooks = glob.glob(os.path.join(input_path,'*.xls*'))
 data_frames = []
+#엑셀 파일에 대해서.
 for workbook in all_workbooks:
     all_worksheets = pd.read_excel(workbook, sheet_name=None, index_col=None)
     for worksheet_name, data in all_worksheets.items():
