@@ -1,3 +1,4 @@
-﻿Supplier Name,Invoice Number,Part Number,Cost,Purchase Date
 Supplier Name,Sum of Cost
-supplier_data.csv,5710.0,475.83
+Supplier X,2500.0
+Supplier Y,750.0
+Supplier Z,2460.0

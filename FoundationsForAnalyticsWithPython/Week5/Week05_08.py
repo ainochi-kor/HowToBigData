@@ -10,6 +10,8 @@ output_file = 'csv/Week05_08.csv'
 
 all_files = glob.glob(os.path.join(input_path, 'sales_*'))
 all_data_frames = []
+all_files = glob.glob(os.path.join(input_path, 'sales_*'))
+all_data_frames = []
 for input_file in all_files:
     data_frame = pd.read_csv(input_file, index_col = None)
     total_sales = pd.DataFrame([float(str(value).strip('$').replace(',',''))\
@@ -25,4 +27,4 @@ for input_file in all_files:
     all_data_frames.append(pd.DataFrame(data, columns=['file_name', 'total_sales', 'average_sales']))
 
 data_frame_concat = pd.concat(all_data_frames, axis=0, ignore_index=True)
-data_frame_concat.to_csv(output_file, index = False)
+data_frame_concat.to_csv(output_file, index = Flse)

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d3a2b07-56c6-488f-879a-cca008e89c47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment/Assin/src/Assignment_04_m03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/Assin/src/test01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/Assin/src/test02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/Assin/src/write_to_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BidDataLab/Another/Analsys/.ipynb_checkpoints/엔카 로지스틱 회귀분석-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week12/csv/customer_category_history.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week12/csv/ex01_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week12/ex01_2calculate_statistic_by_categoty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week12/ex02_3parse_text_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week13_matplotlib/bar_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week13_matplotlib/box_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week13_matplotlib/ex01_matplotlib_basic_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week13_matplotlib/ex02_matplotlib_basic_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week13_matplotlib/ex03_matplotlib_basic_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week13_matplotlib/ex05_matplot_basic_boxplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week13_matplotlib/ex06_pandas_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week13_matplotlib/ex07_seaborn_plots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week13_matplotlib/ex4_matplot_basic_scatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week13_matplotlib/histogram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week13_matplotlib/line_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week13_matplotlib/pandas_plots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week13_matplotlib/scatter_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week14/ex01_wine_quality.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week14/winequality-both.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week15/churn.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week15/customer_chrun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PrepareExam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/last_test/test01/prepare01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/last_test/test03/prepare01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test01/prepare01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test01/prepare01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test01/prepare01_pandas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test01/prepare01_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test01/prepare02.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test01/prepare02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test01/prepare02_pandas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test01/prepare02_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test01/supplier_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test02/csv/sales_february_2014 .csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test02/csv/sales_january_2014.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test02/csv/sales_march_2014.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test02/prepare01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test02/prepare01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test02/prepare01_pandas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test02/prepare01_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test03/output_file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test03/output_file.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test03/prepare01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test03/prepare_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test03/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test03/test01_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test03/test01_pandas.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test03/xls/sales_2013.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test03/xls/sales_2014.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test03/xls/sales_2015.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test04/prepare01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test04/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test05/prepare01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test05/prepare02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test05/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_test/test05/test02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment/Assin/Assignment_04_m02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment/Assin/Assignment_04_m02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment/Assin/Assignment_04_m03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment/Assin/Assignment_04_m03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment/Assin/Home/Homework01/Homework.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment/Assin/Home/Homework01/Homework.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment/Assin/Home/Homework01/Homework01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment/Assin/Home/Homework01/Homework01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment/src/Assignment_04_m03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment/src/test01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment/src/test02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment/src/write_to_file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BidDataLab/pres/ROC&amp;ALU.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week5/Week05_08.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FoundationsForAnalyticsWithPython/Week5/Week05_08.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dgIAeotX9r3XmQip90V8AJW2vh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d3a2b07-56c6-488f-879a-cca008e89c47" name="Default Changelist" comment="" />
+      <created>1592840166308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592840166308</updated>
+      <workItem from="1592840174862" duration="2953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
